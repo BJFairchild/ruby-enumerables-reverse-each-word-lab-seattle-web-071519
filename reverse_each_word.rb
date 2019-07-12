@@ -5,3 +5,4 @@ def reverse_each_word(string)
   while(i < string.length)
     string.each do |string|
      string = string.reverse()
+   end
